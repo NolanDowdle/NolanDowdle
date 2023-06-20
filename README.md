@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm Nolan. Glad you could stop by!
 
-<!--
-**NolanDowdle/NolanDowdle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer who's always excited to learn new tools and craft amazing user experiences.
 
-Here are some ideas to get you started:
+## 📚 On My Learning Plate:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- .NET
+- Typescript
+- Firebase
+
+## 🌟 What I'm Into:
+
+- Exploring the latest tools in AI and web development
+
+## 🤝 Let's team up
+I'm up for collaborating, let's create something awesome together!
+
+Wanna connect? Find me on [LinkedIn](https://www.linkedin.com/in/nolan-dowdle/) or send me an email at njdowdle@gmail.com.
