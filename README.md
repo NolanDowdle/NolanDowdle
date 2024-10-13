@@ -18,6 +18,8 @@ I'm a Software Developer who's always excited to learn new tools and craft amazi
   
 - NoSQL / Cassandra (Where I'm Learning):
       - https://cassandra.apache.org/doc/latest/
+- Redis
+      - 
 - Quantitative Finance:
       - 
 
