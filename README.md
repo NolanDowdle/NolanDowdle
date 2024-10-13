@@ -5,11 +5,17 @@ I'm a Software Developer who's always excited to learn new tools and craft amazi
 ## 📚 On My Learning Plate:
 
 - Rust (Where I'm Learning):
+  
       - The Rust Programming Language (The Book): This is the official guide to Rust and is a great starting point. It’s available for free online at https://doc.rust-lang.org/book/.
+  
       - Rust by Example: A collection of runnable examples to help you learn Rust through hands-on coding. It’s available at https://doc.rust-lang.org/rust-by-example/.
+  
       - Exercism: This site offers exercises to practice Rust and get feedback from mentors. You can find it at https://exercism.org/tracks/rust.
+  
       - Rustlings: A set of small exercises to get you familiar with Rust concepts and syntax, available at https://github.com/rust-lang/rustlings.
+  
       - YouTube Channels and Tutorials: Channels like "Let's Get Rusty" on YouTube offer beginner to advanced tutorials in video format.
+  
 - NoSQL / Cassandra (Where I'm Learning):
       - https://cassandra.apache.org/doc/latest/
 - Quantitative Finance:
