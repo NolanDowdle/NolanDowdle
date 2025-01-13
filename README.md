@@ -16,9 +16,7 @@ I'm a Software Developer who's always excited to learn new tools and craft amazi
   
       - YouTube Channels and Tutorials: Channels like "Let's Get Rusty" on YouTube offer beginner to advanced tutorials in video format.
   
-- NoSQL (Cassandra, Where I'm Learning):
-      - https://cassandra.apache.org/doc/latest/
-- NoSQL (Redis, Where I'm Learning):
+- NoSQL (Redis):
       - 
 - Quantitative Finance:
       - 
